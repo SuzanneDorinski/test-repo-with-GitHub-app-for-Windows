@@ -30,3 +30,7 @@ you type your special token instead of your password, and the
 token is really long, and if you are doing the git push while
 using RStudio, you need to remember that the prompt dialogues 
 may show up in RStudio rather than the Git Bash window.  
+
+And also note that the special token that you type in is NOT 
+the token from the authentication app.  Nope, it's the token 
+you use when calling the GitHub API.
